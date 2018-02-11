@@ -11,7 +11,8 @@ public class TwsApiDemo {
 		// TODO Auto-generated method stub
 		ConnectionManager twsConnect = new ConnectionManager();
 		twsConnect.connect();
-
+		
+		System.out.println("Testing making changes to github.");
 	}
 
 }
